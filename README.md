@@ -33,15 +33,17 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 
 ```
 
-![Espace Pharmacie](https://github.com/user-attachments/assets/f3c552a4-7f43-4b81-99bc-6664e097b0e3)
+<img width="602" height="469" alt="9" src="https://github.com/user-attachments/assets/894bcb94-98a1-4f01-9392-678ad7579d32" />
 
 
 
 
----
 
 ### 🏥 2. Espace Pharmacie
 *Tableau de bord de veille sur les demandes du secteur, réponse instantanée aux patients avec prix et disponibilité (disponible / sur ordonnance / non disponible), gestion du profil et géolocalisation.*
+---
+
+
 
 
 ```
