@@ -31,7 +31,7 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 ### 👤 1. Espace Patient
 >*Recherche instantanée de médicaments par quartier, consultation des disponibilités en temps réel, hub de services et prise de rendez-vous avec des médecins spécialistes.*
 
-```
+
 
 <img width="602" height="469" alt="Espace Pharmacie" src="https://github.com/user-attachments/assets/894bcb94-98a1-4f01-9392-678ad7579d32" />
 
@@ -39,7 +39,7 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 
 
 
-```
+
 <img width="485" height="441" alt="12" src="https://github.com/user-attachments/assets/6ac64d2c-24ef-401a-80b3-6467b15a45b5" />
 
 ---
