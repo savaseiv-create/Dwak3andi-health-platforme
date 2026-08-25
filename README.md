@@ -33,7 +33,8 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 
 ```
 
-<img width="602" height="469" alt="9" src="https://github.com/user-attachments/assets/f3c552a4-7f43-4b81-99bc-6664e097b0e3" />
+![Espace Pharmacie](https://github.com/user-attachments/assets/f3c552a4-7f43-4b81-99bc-6664e097b0e3)
+
 
 
 
