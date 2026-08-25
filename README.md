@@ -33,7 +33,8 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 
 ```
 
-<img width="602" height="469" alt="9" src="https://github.com/user-attachments/assets/925d5a2e-8291-462d-9a53-2cb03daa7fc8" />
+<img width="602" height="469" alt="9" src="https://github.com/user-attachments/assets/40aca8d3-707d-45c2-acce-4667db675410" />
+
 
 ---
 
