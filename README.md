@@ -20,7 +20,8 @@ Face aux ruptures de stock fréquentes et aux déplacements multiples nécessair
 
 > *Cette section présente les différentes interfaces et parcours utilisateurs de l'application.*
 
-<img width="953" height="532" alt="1" src="https://github.com/user-attachments/assets/00f5987c-1f00-4eb1-b4dc-6bc49dea0c09" />
+<img width="953" height="532" alt="1" src="https://github.com/user-attachments/assets/8cc28fef-8817-4339-86e0-ef177214663b" />
+
 
 
 <img width="959" height="476" alt="7" src="https://github.com/user-attachments/assets/088ffaa5-f0a1-4422-ac86-9e0ce85745c5" />
